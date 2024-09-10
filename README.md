@@ -5,5 +5,5 @@
 - 향후 일기를 썼던 곳을 다시 찾으면, 추억을 회상할 수 있게 알려드려요
 
 ### 주요 기능
-**1. 일기 작성**
+<div>**1. 일기 작성**<div/>
 <img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function1.gif?raw=true" width=750>
