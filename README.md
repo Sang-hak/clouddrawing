@@ -6,7 +6,7 @@
 
 ### 주요 기능
 **1. 일기 작성**
-<br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function1.gif?raw=true" width=750>
+<br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function1.gif?raw=true" width=850>
 <br></br>
 **2. 일기 조회**
 <br></br>
