@@ -6,4 +6,4 @@
 
 ### 주요 기능
 - 일기 작성
-<img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function1.gif?raw=true" width=200>
+<img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function1.gif?raw=true" width=750>
