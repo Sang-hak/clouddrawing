@@ -7,3 +7,7 @@
 ### 주요 기능
 **1. 일기 작성**
 <br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function1.gif?raw=true" width=750>
+**2. 일기 조회**
+**3. 일기 수정**
+**4. 일기 삭제**
+**5. 재방문 알림 기능**
