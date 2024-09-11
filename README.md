@@ -23,6 +23,8 @@
 <br></br>
 **5. 재방문 알림 기능**
 <br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function5.gif?raw=true" width=850>
+- 그 외 프로필 사진 변경 기능, 소셜 로그인 기능, 현재 위치 확인 기능, 최근 작성 구름 불러오기 기능, etc
 
+<br></br>
 ### 기술 스택
 `kotlin` `Jetpack Compose` `Figma` `Firebase` `Retrofit2`
