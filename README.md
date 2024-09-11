@@ -28,3 +28,6 @@
 <br></br>
 ### 기술 스택
 `kotlin` `Jetpack Compose` `Figma` `Firebase` `Retrofit2`
+
+### 기술적 고민(+해결 과정)
+추가 예정
