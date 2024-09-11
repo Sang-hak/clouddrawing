@@ -16,8 +16,9 @@
 
 <br></br>
 **3. 일기 수정**
-<br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function4.gif?raw=true" width=850>
+<br></br>
 <br></br>
 **4. 일기 삭제**
+<br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function4.gif?raw=true" width=850>
 <br></br>
 **5. 재방문 알림 기능**
