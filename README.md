@@ -13,7 +13,9 @@
 <br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function2-1.gif?raw=true" width=850>
 <br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function2-2.gif?raw=true" width=850>
 - 중복 위치 작성 일기들도 확인 가능, 전체 일기 열람 시 위치 별 확인 가능
+<br></br>
 **3. 일기 수정**
+<br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function4.gif?raw=true" width=850>
 <br></br>
 **4. 일기 삭제**
 <br></br>
