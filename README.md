@@ -22,3 +22,4 @@
 <br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function4.gif?raw=true" width=850>
 <br></br>
 **5. 재방문 알림 기능**
+<br></br><img src="https://github.com/Sang-hak/clouddrawing/blob/master/images/function5.gif?raw=true" width=850>
